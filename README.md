@@ -58,6 +58,11 @@ To share the game with friends:
    - After remixing, they'll see the green "Run" button
    - Click the "Run" button
    - Wait for the environment to load
+   - To add the Bash terminal:
+     - Click the "Tools" button in the left sidebar
+     - Select "Shells"
+     - Click "New Shell"
+     - Choose "bash" from the dropdown menu
    - Open the Shell (usually at the bottom of the page)
    - Copy and paste these commands:
      ```bash
