@@ -1,0 +1,9 @@
+run = "make space_station_game && ./space_station_game"
+entrypoint = "StationCLIgame.cpp"
+
+[nix]
+channel = "stable-22_11"
+
+[deployment]
+run = ["sh", "-c", "make space_station_game && ./space_station_game"]
+deploymentTarget = "cloudrun" 

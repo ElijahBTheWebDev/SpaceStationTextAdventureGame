@@ -31,20 +31,8 @@ Your mission is to:
 1. Visit [Replit](https://replit.com)
 2. Create a new Repl and choose "Import from GitHub"
 3. Select this repository
-4. Once imported, open the Shell in Replit
-5. Copy and paste these commands one at a time:
-   ```bash
-   make space_station_game
-   ./space_station_game
-   ```
-6. The game will start in the Replit console
-
-### Quick Start in Replit Shell
-Just copy and paste these commands:
-```bash
-make space_station_game
-./space_station_game
-```
+4. Click the green "Run" button
+5. The game will automatically compile and start in the Replit console
 
 ### Share with Friends
 To share the game with friends:
@@ -57,16 +45,4 @@ To share the game with friends:
    - Click the "Remix" button to create their own copy
    - After remixing, they'll see the green "Run" button
    - Click the "Run" button
-   - Wait for the environment to load
-   - To add the Bash terminal:
-     - Click the "Tools" button in the left sidebar
-     - Select "Shells"
-     - Click "New Shell"
-     - Choose "bash" from the dropdown menu
-   - Open the Shell (usually at the bottom of the page)
-   - Copy and paste these commands:
-     ```bash
-     make space_station_game
-     ./space_station_game
-     ```
-4. The game will start in the Replit console
+   - The game will automatically compile and start in the Replit console
